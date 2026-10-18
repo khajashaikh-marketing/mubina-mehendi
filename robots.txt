@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://khajashaikh-marketing.github.io/mubina-mehendi/sitemap.xml
